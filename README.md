@@ -2,7 +2,10 @@
 
 <!--
 **William68-lab/William68-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+### About Me
+- 🎓 NCHU EE (Digital IC Design)
+- 🛠️ Verilog / SystemVerilog / Vivado / Vitis HLS / AXI / DMA / PYNQ-ZU
+- 🔭 Project: ORB-SLAM3 corner detection acceleration (FAST / Harris / NMS / Octree on FPGA)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
