@@ -3,19 +3,19 @@ Hi, I'm Wei, a Bachelor student in Electrical Engineering at NCHU.
 Here are some of the projects I have completed during my courses.
 
 
-### About Me
-- 🎓 NCHU EE (Digital IC Design), started Fall 2022
+### 😀About Me
+- NCHU EE (Digital IC Design), started Fall 2022
 
-### What I'm Working On
-- ✅ Harris-based corner detection for ORB-SLAM3 feature extraction
+### ✍️What I'm Working On
+- Harris-based corner detection for ORB-SLAM3 feature extraction
 
-### Language
+### 📚Language
 - Verilog
 - C++
 - Python
 
-### Projects
+### 💻Projects
 
 
-### Contact Me
+### ✉️Contact Me
 - Email:libaiwei4@gmail.com
