@@ -1,4 +1,6 @@
 ## Hi there 👋
+Hi, I'm Wei, a Bachelor student in Electrical Engineering at NCHU.   
+Here are some of the projects I have completed during my courses.
 
 
 ### About Me
